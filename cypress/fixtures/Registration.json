@@ -1,0 +1,14 @@
+{
+  "signupname": "Arsalan",
+  "email": "arsalan4243@test.com",
+  "RegPassword": "Test@123",
+  "firstname": "Arsalan",
+  "lastname": "Shaikh",
+  "company" : "Spruce",
+  "address": "Mumbai, Kurla west, Mumbai 400070",
+  "Country": "India",
+  "State": "Maharashtra",
+  "City": "Mumbai",
+  "Zipcode": "400053",
+  "Mobile": "9876543210"
+}

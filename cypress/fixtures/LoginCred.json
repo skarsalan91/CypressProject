@@ -1,0 +1,7 @@
+{
+  "URL": "https://automationexercise.com/login",
+  "name": "JohnDoe",
+  "username": "test00786@gmail.com",
+  "password": "Test@123",
+  "incorrectpass" : "Test@qwe"
+}
